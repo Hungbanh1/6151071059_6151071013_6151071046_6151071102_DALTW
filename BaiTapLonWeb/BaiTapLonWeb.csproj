@@ -2417,6 +2417,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Export\ExportExcelAll\" />
     <Folder Include="Export\ExportExcel\" />
+    <Folder Include="Views\database\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
